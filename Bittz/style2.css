@@ -1,0 +1,61 @@
+body{
+	padding: 30px;
+	background-size: 100%;
+	background-image: url("https://img2.goodfon.ru/wallpaper/nbig/c/10/nebo-oblaka-gorizont-1638.jpg");
+    background-repeat: repeat-y;
+}
+
+div{
+	height: 700px;
+	width: 70%;
+	margin-top: 0 auto;
+
+}
+.serif{
+font-family: Times,"Times new roman", serif;
+font-size: 30px;
+font-style: normal;
+font-weight: bold;
+font-variant: small-caps;
+color: green;
+text-align: top;
+text-decoration: overline;
+text-indent: 60px;
+text-shadow: 5px 2px 4px grey;
+letter-spacing: 4px;
+border-width: 10px;
+border-style: dotted;
+border-color: yellow;
+padding:10px;
+
+}
+
+.sans-serif{
+font-family: Helvetica, Atial,sans-serif;
+font-size: 30px;
+font-style: italic;
+font-weight: bolder;
+color: blue;
+text-align: start;
+text-decoration: line-through;
+text-indent: 60px;
+text-shadow: 5px 2px 5px grey;
+letter-spacing: 5px;
+border:5px dashed yellow;
+padding: 10px
+}
+
+.monospase{
+	font-family: "Courier New", Courier, monospase;
+	font-size: 30px;
+	font-style: oblique;
+	font-weight: 700;
+	color: hsl(60,100%,25%);
+	text-align: end;
+	text-decoration: underline;
+	text-indent: 60px;
+	text-shadow: 15px 12px 10px grey;
+	letter-spacing: 10px;
+	border: 5px solid green;
+	padding:10px;
+}
